@@ -4,7 +4,7 @@ import img1 from './Assets/coffe1.jpeg'
 import img2 from './Assets/coffee2.jpeg'
 import img3 from './Assets/sandwich.jpeg'
 
-export default function App6() {
+export default function AppCoffee() {
     return (
       <div>
         <h1>Starbucks</h1>
